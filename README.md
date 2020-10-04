@@ -17,7 +17,7 @@ In this project I'm trying to analyze and visualize the Output variable i.e Purc
 
    1)Read the data set
     
-   2) EDA
+   2)EDA
     
    3)check multicollinearity between input feature
     
