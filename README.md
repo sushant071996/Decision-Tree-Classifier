@@ -1,6 +1,5 @@
-# Decision-Tree-Classifier
 
-## Data Analysis and Visualisation to predict Purchased or not (Use of KNN Classifier)
+## Data Analysis and Visualisation to predict Purchased or not (Use of Decision-Tree-Classifier)
 
 In this project I'm trying to analyze and visualize the Output variable i.e Purchased. There are 3 input variable i.e Gender, Age and Estimated Salary depending on these input variable we can predict whether a specific user purchased or not Purchased from a shop 
 
